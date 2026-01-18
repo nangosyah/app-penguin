@@ -1,0 +1,9 @@
+[project]
+name = "app-penguin"
+version = "0.1.0"
+requires-python = ">= 3.9.16"
+dependencies = [
+    "dash>=3.3.0",
+    "palmerpenguins>=0.1.4",
+    "plotly>=6.5.2",
+]
